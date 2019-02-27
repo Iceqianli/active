@@ -3,4 +3,6 @@ html{
 }
 .master {
     font: outline;
+body{
+    color: #000;
 }
